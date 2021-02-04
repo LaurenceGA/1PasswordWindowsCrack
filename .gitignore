@@ -123,3 +123,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+1password10.sqlite*
+passwords*
+.vscode
