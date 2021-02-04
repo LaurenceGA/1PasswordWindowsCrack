@@ -6,7 +6,7 @@ import hashlib, hmac
 import getpass
 from Crypto.Cipher import AES
 
-WINDOWS_1PASSWORD_DB_FILE = '1Password10.sqliteE'
+WINDOWS_1PASSWORD_DB_FILE = '1Password10.sqlite'
 ENCRYPTION_ALGO = 'sha512'
 DEBUG = False
 
